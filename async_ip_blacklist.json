@@ -40,6 +40,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "103.108.94.167",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "103.125.235.30",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -125,6 +130,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "103.31.45.78",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "103.55.39.190",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -141,6 +151,21 @@
   },
   {
     "ip": "103.62.49.120",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "103.77.232.75",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "103.77.232.77",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "103.77.232.78",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -165,12 +190,22 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "104.149.144.30",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "104.152.222.37",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
     "ip": "104.152.222.38",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "104.223.127.245",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -186,6 +221,11 @@
   },
   {
     "ip": "104.244.210.248",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "104.244.210.62",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -220,7 +260,192 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "113.160.164.187",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.160.186.220",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.160.198.200",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.160.226.108",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.161.149.64",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.161.7.201",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.161.73.7",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.161.91.248",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.161.93.159",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.161.93.166",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.176.195.158",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.176.64.148",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.176.92.71",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.190.232.30",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "113.20.108.220",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.73.210.148",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.73.213.128",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.74.105.141",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.74.199.234",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.78.8.241",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.79.222.71",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.79.39.181",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "115.79.52.80",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "116.118.112.45",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "116.118.113.254",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "116.206.228.184",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "116.206.228.190",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "116.90.72.246",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "116.90.72.248",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "116.90.72.250",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "117.121.242.109",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "117.2.128.252",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "117.2.51.157",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "117.3.70.58",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "117.6.161.234",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "118.69.233.38",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "118.69.55.105",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "118.71.17.33",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -545,7 +770,42 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "134.19.179.139",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "134.19.179.163",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "134.19.179.179",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "134.19.179.235",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "135.125.2.190",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "138.199.35.100",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "138.199.35.102",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "138.199.35.98",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -575,7 +835,47 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "14.241.133.30",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "14.241.78.19",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "14.243.140.188",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "14.245.4.72",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "14.248.85.109",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "14.252.176.54",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "141.98.217.197",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "142.132.214.167",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "142.202.32.194",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -586,6 +886,11 @@
   },
   {
     "ip": "144.168.163.198",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "144.217.170.19",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -805,6 +1110,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "156.146.55.226",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "156.146.55.227",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -816,6 +1126,11 @@
   },
   {
     "ip": "156.146.55.229",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "156.146.55.230",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -835,6 +1150,16 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "162.118.2.241",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "162.201.17.165",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "162.221.207.104",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -850,7 +1175,32 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "163.47.56.219",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "165.231.182.25",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "165.231.253.214",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "165.231.253.221",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "165.231.253.246",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "165.231.253.247",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -870,7 +1220,37 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "167.88.60.234",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "167.88.60.236",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "167.88.60.247",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "167.88.60.252",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "169.255.58.178",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "171.250.94.119",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "172.107.233.230",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -895,7 +1275,27 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "172.255.125.169",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "172.255.125.175",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "173.208.45.45",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "173.244.209.63",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "174.46.14.24",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -995,6 +1395,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "178.61.154.135",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "179.49.5.126",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1005,7 +1410,22 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "180.222.151.33",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "182.54.236.190",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "183.182.105.201",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "184.176.60.60",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1085,6 +1505,16 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "185.15.21.71",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.15.21.74",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "185.15.244.150",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1150,12 +1580,22 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "185.173.34.230",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "185.189.113.34",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
     "ip": "185.189.115.26",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.189.163.228",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1180,6 +1620,56 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "185.230.126.13",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.147",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.150",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.20",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.21",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.22",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.23",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.24",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.25",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.230.126.26",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "185.232.21.186",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1195,12 +1685,42 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "185.237.218.154",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.24.142.133",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.241.7.179",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "185.244.214.121",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "185.245.85.100",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "185.245.85.107",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.245.85.108",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.245.85.6",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1221,6 +1741,16 @@
   },
   {
     "ip": "185.252.223.231",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.253.99.185",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "185.253.99.188",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1255,6 +1785,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "188.17.156.199",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "188.241.83.118",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1275,6 +1810,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "190.152.36.6",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "190.2.132.148",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1291,6 +1831,11 @@
   },
   {
     "ip": "190.2.146.231",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "192.161.189.158",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1400,6 +1945,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "194.34.133.92",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "194.99.105.76",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1415,7 +1965,22 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "195.135.83.165",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "195.135.92.41",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "195.146.4.146",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "195.146.4.147",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1425,7 +1990,27 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "195.146.4.191",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "195.146.4.193",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "195.154.215.112",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "195.181.170.74",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "195.181.172.155",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1441,6 +2026,11 @@
   },
   {
     "ip": "195.54.178.40",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "196.202.57.70",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1480,6 +2070,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "198.244.247.245",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "198.54.128.131",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1515,12 +2110,22 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "199.115.96.89",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "199.115.96.92",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
     "ip": "199.115.96.94",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "199.217.104.254",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1536,6 +2141,16 @@
   },
   {
     "ip": "199.48.241.200",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "20.14.90.230",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "20.169.44.71",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1560,7 +2175,27 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "201.69.32.126",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "202.176.4.171",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "202.176.4.177",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "202.176.4.183",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "202.176.4.185",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1595,6 +2230,16 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "203.205.51.49",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "206.217.129.230",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "206.217.129.233",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1616,6 +2261,11 @@
   },
   {
     "ip": "207.244.91.137",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "207.244.91.150",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1755,6 +2405,26 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "213.152.162.165",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "213.152.162.99",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "213.152.187.195",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "213.97.52.172",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "217.138.196.21",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1820,12 +2490,62 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "221.120.36.164",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "222.253.252.52",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "222.253.41.192",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "23.108.30.187",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "23.108.51.23",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "23.109.136.154",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "23.152.0.77",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "23.172.112.237",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "23.191.80.5",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "23.191.80.6",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "23.226.141.237",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "23.233.24.196",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1836,6 +2556,11 @@
   },
   {
     "ip": "23.82.137.76",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "23.82.137.77",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1855,6 +2580,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "23.92.127.43",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "23.94.74.108",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -1866,6 +2596,21 @@
   },
   {
     "ip": "23.95.42.212",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "24.116.143.71",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "27.72.79.242",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "3.74.216.172",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1935,7 +2680,17 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "36.94.161.229",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "37.120.135.88",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "37.120.142.238",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1951,6 +2706,11 @@
   },
   {
     "ip": "37.120.213.169",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "37.120.213.172",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -1980,7 +2740,37 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "37.19.218.20",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "38.101.74.29",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "38.101.74.90",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "38.117.193.76",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "38.146.5.116",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "38.146.5.120",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "38.146.5.55",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2050,6 +2840,56 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "45.134.140.34",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.35",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.37",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.38",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.39",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.40",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.41",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.42",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.43",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.134.140.45",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "45.14.71.13",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2095,6 +2935,61 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "45.87.214.100",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.101",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.195",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.196",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.198",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.199",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.201",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.202",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.213",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.216",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "45.87.214.218",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "45.87.214.39",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2115,7 +3010,22 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "49.50.210.176",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "5.157.13.148",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "5.157.13.157",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "5.157.13.158",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2145,6 +3055,26 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "50.209.47.254",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "51.158.112.250",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "51.195.126.253",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "51.77.104.198",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "51.79.18.155",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2161,6 +3091,11 @@
   },
   {
     "ip": "54.37.83.201",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "57.128.134.49",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2240,6 +3175,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "66.28.182.226",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "66.90.72.174",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2286,6 +3226,16 @@
   },
   {
     "ip": "68.235.38.148",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "68.235.50.244",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "69.139.44.115",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2540,6 +3490,51 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "71.19.251.158",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "72.11.157.113",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "72.11.157.42",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "72.11.157.50",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "72.11.157.51",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "72.191.179.171",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "75.191.3.73",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "75.80.147.84",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "76.72.175.105",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "76.72.175.173",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2560,6 +3555,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "78.129.143.13",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "78.134.7.172",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2571,6 +3571,11 @@
   },
   {
     "ip": "79.142.76.209",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "79.142.76.210",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2605,12 +3610,27 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "82.68.190.214",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "84.17.46.5",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
     "ip": "84.17.55.110",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "84.17.55.123",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "84.17.55.124",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2625,12 +3645,27 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "84.39.112.82",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "85.159.237.76",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
     "ip": "85.45.124.153",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "86.105.239.3",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "86.57.223.210",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2670,6 +3705,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "89.187.175.141",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "89.187.175.149",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2695,6 +3735,11 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "89.187.177.56",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "89.187.178.174",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
@@ -2705,12 +3750,52 @@
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
+    "ip": "89.223.0.73",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "89.44.201.103",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "89.44.201.117",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
     "ip": "89.47.62.87",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
   {
     "ip": "91.121.80.205",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "91.134.153.251",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "91.219.214.166",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "91.219.214.171",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "91.219.214.174",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "91.219.238.98",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   },
@@ -2791,6 +3876,21 @@
   },
   {
     "ip": "95.174.66.62",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "95.217.49.112",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "96.35.106.219",
+    "expirationDate": "2099-01-01T01:00:00+00:00",
+    "description": "Default_Async_IT_Sàrl_blocklist"
+  },
+  {
+    "ip": "98.249.117.192",
     "expirationDate": "2099-01-01T01:00:00+00:00",
     "description": "Default_Async_IT_Sàrl_blocklist"
   }
