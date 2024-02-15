@@ -5,6 +5,7 @@ It looks like some of thoses IP's are not blacklisted correctly, if you ever fin
 
 
 # Banned IP's per country statistics as of 15.02.2024
+```shell
  Iran: 3
  Uruguay: 2
  Tanzania: 1
@@ -121,3 +122,4 @@ It looks like some of thoses IP's are not blacklisted correctly, if you ever fin
  Maldives: 1
  Kuwait: 2
  Not found: 168
+```
