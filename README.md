@@ -4,122 +4,123 @@ An IP blacklist resulting of the combination of many 3CX installations
 It looks like some of thoses IP's are not blacklisted correctly, if you ever find why, i'd be interested
 
 
-# Banned IP's per country statistics as of 15.02.2024
+# Banned IP's per country statistics as of 19.11.2024
 ```shell
- Iran: 3
- Uruguay: 2
- Tanzania: 1
- Bosnia and Herzegovina: 3
- Georgia: 5
- Israel: 10
- Luxembourg: 4
- Hong Kong: 19
- Ethiopia: 1
- Malaysia: 37
- Serbia: 2
- Zambia: 2
- Puerto Rico: 4
- Uganda: 1
- Ireland: 48
- New Zealand: 25
- China: 71
- Peru: 3
- Croatia: 6
- Switzerland: 36
- Romania: 44
- Kazakhstan: 2
- Europe: 8
- Mongolia: 3
- Canada: 77
- Slovenia: 5
- Lebanon: 1
- Czech Republic: 51
- Taiwan: 30
- Egypt: 2
- Mozambique: 2
- Guinea: 2
- Iraq: 2
- Algeria: 4
- Thailand: 19
- Jordan: 3
- Angola: 1
- Sweden: 15
- Korea: 29
- Costa Rica: 6
- Spain: 38
- Poland: 21
- Honduras: 10
- United Arab Emirates: 2
- Colombia: 9
- Singapore: 27
- Nepal: 1
- Estonia: 10
- Indonesia: 45
- Germany: 60
- Lithuania: 13
- Turkey: 37
- Bulgaria: 9
- Russian Federation: 99
- Panama: 5
- Slovakia: 19
- Finland: 10
- Hungary: 4
- Palestinian Territory: 9
- Iceland: 7
- Tunisia: 1
- Niger: 1
- Mali: 1
- Albania: 5
- Cameroon: 1
- Ghana: 1
- Latvia: 26
- Botswana: 2
- Brazil: 41
- Bahamas: 1
- Macedonia: 7
- Andorra: 1
- France: 99
- South Africa: 43
- Bolivia: 1
- United States: 890
- Belgium: 8
- Paraguay: 1
- Armenia: 3
- Curacao: 4
- Belarus: 3
- Nicaragua: 12
- Moldova: 13
- India: 29
- Cyprus: 8
- Kenya: 3
- Japan: 47
- United Kingdom: 251
- Bangladesh: 26
- Greece: 15
- Mexico: 6
- Italy: 68
- Philippines: 9
- Argentina: 24
- Cambodia: 21
- Qatar: 3
- Ukraine: 29
- Kyrgyzstan: 1
- Netherlands: 143
- Ecuador: 17
- Norway: 14
- Saudi Arabia: 1
- Denmark: 5
- Portugal: 30
- Sri Lanka: 1
- Chile: 2
- Vietnam: 253
- Austria: 9
- Dominican Republic: 3
- Pakistan: 2
- Seychelles: 8
- Australia: 70
- Guatemala: 3
- Maldives: 1
- Kuwait: 2
- Not found: 168
+UnitedStates: 900
+Vietnam: 259
+UnitedKingdom: 253
+Netherlands: 143
+France: 100
+RussianFederation: 99
+Canada: 79
+China: 71
+Australia: 70
+Italy: 68
+Germany: 63
+CzechRepublic: 51
+Ireland: 48
+Japan: 47
+Indonesia: 45
+Romania: 44
+SouthAfrica: 44
+Brazil: 41
+Spain: 38
+Malaysia: 37
+Switzerland: 37
+Turkey: 37
+Taiwan: 31
+Portugal: 30
+Ukraine: 30
+India: 29
+Korea: 29
+Singapore: 27
+Bangladesh: 26
+Latvia: 26
+Argentina: 24
+NewZealand: 24
+Cambodia: 21
+Poland: 21
+HongKong: 19
+Slovakia: 19
+Thailand: 19
+Ecuador: 17
+Greece: 15
+Sweden: 15
+Lithuania: 14
+Norway: 14
+Moldova: 13
+Nicaragua: 12
+Bulgaria: 10
+Estonia: 10
+Finland: 10
+Honduras: 10
+Israel: 10
+Austria: 9
+Colombia: 9
+PalestinianTerritory: 9
+Philippines: 9
+Belgium: 8
+Cyprus: 8
+Europe: 8
+Seychelles: 8
+Iceland: 7
+Macedonia: 7
+CostaRica: 6
+Croatia: 6
+Mexico: 6
+Albania: 5
+Denmark: 5
+Georgia: 5
+Panama: 5
+Slovenia: 5
+Algeria: 4
+Curacao: 4
+Hungary: 4
+Luxembourg: 4
+PuertoRico: 4
+Armenia: 3
+Belarus: 3
+BosniaandHerzegovina: 3
+DominicanRepublic: 3
+Guatemala: 3
+Iran: 3
+Jordan: 3
+Kenya: 3
+Mongolia: 3
+Peru: 3
+Qatar: 3
+Botswana: 2
+Chile: 2
+Egypt: 2
+Guinea: 2
+Iraq: 2
+Kazakhstan: 2
+Kuwait: 2
+LaoPeoplesDemocraticRepublic: 2
+Mozambique: 2
+Pakistan: 2
+SaudiArabia: 2
+Serbia: 2
+UnitedArabEmirates: 2
+Uruguay: 2
+Zambia: 2
+Andorra: 1
+Angola: 1
+Bahamas: 1
+Bolivia: 1
+Cameroon: 1
+Ethiopia: 1
+Ghana: 1
+Kyrgyzstan: 1
+Lebanon: 1
+Maldives: 1
+Mali: 1
+Nepal: 1
+Niger: 1
+Paraguay: 1
+SriLanka: 1
+Tanzania: 1
+Tunisia: 1
+Uganda: 1
+Unknown ip location: 170
 ```
