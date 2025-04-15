@@ -3,17 +3,17 @@ An IP blacklist resulting of the combination of many 3CX installations and syste
 
 # Banned IP's per country statistics as of 19.11.2024
 ```shell
-UnitedStates: 1121
+UnitedStates: 1125
 UnitedKingdom: 329
 Vietnam: 264
 Germany: 250
-Netherlands: 219
+Netherlands: 220
 Canada: 181
 France: 139
-RussianFederation: 117
+RussianFederation: 118
 China: 114
+India: 96
 Australia: 95
-India: 95
 Switzerland: 85
 Singapore: 83
 Indonesia: 66
@@ -21,8 +21,8 @@ Japan: 64
 Ireland: 60
 Bulgaria: 57
 Spain: 57
+HongKong: 56
 Brazil: 55
-HongKong: 55
 CzechRepublic: 49
 Italy: 49
 Taiwan: 48
@@ -32,8 +32,8 @@ Poland: 41
 Korea: 39
 Malaysia: 37
 Latvia: 33
+Romania: 31
 Portugal: 30
-Romania: 30
 Bangladesh: 29
 Sweden: 29
 Cambodia: 27
@@ -65,10 +65,10 @@ Cyprus: 8
 Denmark: 8
 Macedonia: 8
 Panama: 8
+Seychelles: 8
 CostaRica: 7
 Estonia: 7
 Peru: 7
-Seychelles: 7
 Slovakia: 7
 Croatia: 6
 Albania: 5
@@ -81,6 +81,7 @@ Serbia: 5
 Slovenia: 5
 Algeria: 4
 PuertoRico: 4
+Azerbaijan: 3
 Bahrain: 3
 Belarus: 3
 BosniaandHerzegovina: 3
@@ -106,7 +107,6 @@ Uruguay: 2
 Zambia: 2
 Andorra: 1
 Angola: 1
-Azerbaijan: 1
 Bahamas: 1
 Belize: 1
 Bolivia: 1
@@ -126,5 +126,5 @@ Tanzania: 1
 Tunisia: 1
 Turkmenistan: 1
 Uganda: 1
-Unknown: 4
+Unknow: 4
 ```
