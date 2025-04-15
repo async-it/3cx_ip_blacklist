@@ -1,32 +1,32 @@
 # 3CX IP Blacklist
 An IP blacklist resulting of the combination of many 3CX installations and systems
 
-# Banned IP's per country statistics as of 19.11.2024
+# Banned IP's per country statistics as of 15.05.2025
 ```shell
-UnitedStates: 1125
-UnitedKingdom: 329
+UnitedStates: 1141
+UnitedKingdom: 332
 Vietnam: 264
-Germany: 250
+Germany: 252
 Netherlands: 220
 Canada: 181
-France: 139
-RussianFederation: 118
+France: 142
+RussianFederation: 128
 China: 114
+Australia: 96
 India: 96
-Australia: 95
 Switzerland: 85
 Singapore: 83
+Spain: 67
 Indonesia: 66
 Japan: 64
 Ireland: 60
 Bulgaria: 57
-Spain: 57
 HongKong: 56
 Brazil: 55
 CzechRepublic: 49
 Italy: 49
+SouthAfrica: 48
 Taiwan: 48
-SouthAfrica: 47
 Turkey: 44
 Poland: 41
 Korea: 39
@@ -40,6 +40,7 @@ Cambodia: 27
 Finland: 24
 Thailand: 24
 Greece: 23
+Moldova: 21
 NewZealand: 21
 Ukraine: 21
 Argentina: 20
@@ -48,14 +49,13 @@ Norway: 20
 Austria: 19
 Ecuador: 19
 UnitedArabEmirates: 18
+Hungary: 15
 Lithuania: 15
 Colombia: 14
-Moldova: 14
 Philippines: 14
 Chile: 13
 Nicaragua: 13
 Honduras: 11
-Hungary: 11
 Israel: 11
 Luxembourg: 11
 PalestinianTerritory: 11
@@ -89,7 +89,9 @@ DominicanRepublic: 3
 Jordan: 3
 Macau: 3
 Mongolia: 3
+Nigeria: 3
 Qatar: 3
+Uruguay: 3
 Armenia: 2
 Botswana: 2
 Egypt: 2
@@ -100,10 +102,8 @@ Iraq: 2
 Kuwait: 2
 LaoPeoplesDemocraticRepublic: 2
 Mozambique: 2
-Nigeria: 2
 Pakistan: 2
 SriLanka: 2
-Uruguay: 2
 Zambia: 2
 Andorra: 1
 Angola: 1
@@ -120,11 +120,12 @@ Mali: 1
 Mauritius: 1
 Morocco: 1
 Nepal: 1
+NewCaledonia: 1
 Niger: 1
 Paraguay: 1
 Tanzania: 1
 Tunisia: 1
 Turkmenistan: 1
 Uganda: 1
-Unknow: 4
+Unknown: 4
 ```
